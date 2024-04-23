@@ -6,6 +6,6 @@ const Input = ({ handleChange, value, title, name, color }) => {
       {title}
     </label>
   );
-}
+};
 
 export default Input;
