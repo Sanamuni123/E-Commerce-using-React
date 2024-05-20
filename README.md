@@ -4,7 +4,7 @@
 This is an E-Commerce website built using React. The website allows users to browse products, add items to their cart, and proceed to checkout.
 
 ## Live Demo
-Check out the live site [http://localhost:3000]([https://your-deployed-site-url.com](http://localhost:3000).
+Check out the live site [http://localhost:3000]([https://your-deployed-site-url.com](http://localhost:3000)).
 
 ## Getting Started
 This project was bootstrapped with Create React App.
